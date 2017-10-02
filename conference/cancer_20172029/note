@@ -1,0 +1,12 @@
+Scripts for cancer conference 20170929.
+Two machine learning methods are applied for somatic and germline cancer genome.
+These two scripts are on the way of completion and there are many future works.
+In the future works (as of 20171001),
+    1. Normalization - Scales should be set to be the same
+    2. Cross validation - Test data should be undergone the cross validation due to the weakness of decision tree algorithms.
+    3. Evalutation - As the test data is randomly sampled, the learning and its result should be undergone for many times and the average among the distribution should be calculated.
+    4. Other algorithms - Such as svm and neural networks will improve the mismatch ratio of prediction.
+    5. 
+
+
+
